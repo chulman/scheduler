@@ -1,4 +1,4 @@
-package com.chulman.cron4j;
+package com.chulman.schedule.quartz.job;
 
 import lombok.extern.slf4j.Slf4j;
 import org.quartz.Job;
@@ -13,6 +13,7 @@ public class HelloJob implements Job {
         log.info("Job ** {} ** fired @ {}", context.getJobDetail().getKey().getName(), context.getFireTime());
         log.info("### Hello ###");
         log.info("Next job scheduled @ {}", context.getNextFireTime());
+
     }
 
 

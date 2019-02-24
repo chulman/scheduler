@@ -1,4 +1,4 @@
-package com.chulman.cron4j;
+package com.chulman.schedule.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
