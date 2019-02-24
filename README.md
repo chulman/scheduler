@@ -13,7 +13,6 @@
 |                   Clustering                  |       X      |       O      |       X      |
 |               Dynamic Scheduling              |       O      |       O      |       X      |
 |            Custom Calendar Support            |       X      |       O      |       X      |
-|              Calendar                         |       X      |       O      |       O      |
 |              Scheduling Precision             |    Minutes   |    Seconds   | MilliSeconds |
 
 
