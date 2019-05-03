@@ -50,6 +50,5 @@
 
 https://www.baeldung.com/spring-quartz-schedule
 
-##TODO
 - SpirngBatch
 - Quartz + SpringBatch
